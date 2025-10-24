@@ -1,6 +1,6 @@
-<!-- Animated Header -->
+<!-- 🌊 Animated Gradient Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D7,100:00C4B3&height=200&section=header&text=Hey%20There%20👋%20I'm%20Fitz&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D7,100:00C4B3&height=220&section=header&text=Hey%20There%20👋%20I'm%20Fitz&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <p align="center">
@@ -11,51 +11,59 @@
 ---
 
 ### 🧠 About Me
-- ⚙️ Full Stack Engineer specialized in **React**, **ASP.NET Core Web API**, and **Express.js**
+> 💡 *"Turning complex systems into elegant digital experiences."*
+
+- ⚙️ Full Stack Engineer specialized in **React**, **ASP.NET Core Web API**, and **Express.js**  
 - 🤖 Integrating **AI Genkit** with **Google Cloud AI** for intelligent automation and predictive systems  
 - 🔄 Using **n8n automation** for low-code orchestration, workflow optimization, and AI-driven pipelines  
-- ☁️ Deploying on **Azure** and **Google Cloud**, with **CI/CD** and **Docker**
-- 🧩 Applying **SOLID Principles** & **Design Patterns** (Factory, Strategy, Observer, Facade)
-- 🛡️ Practicing **OWASP Security** and **Clean Code Architecture**
+- ☁️ Deploying on **Azure** and **Google Cloud**, with **CI/CD** and **Docker**  
+- 🧩 Applying **SOLID Principles** & **Design Patterns** (*Factory, Strategy, Observer, Facade*)  
+- 🛡️ Practicing **OWASP Security** and **Clean Code Architecture**  
 
 ---
 
 ### 🛠️ Tech Arsenal
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,dotnet,express,azure,gcp,docker,git,github,js,ts,cs,sql" /><br>
-  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,postman,powershell,npm,nodejs" />
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,postman,powershell,npm,nodejs,ai" />
 </p>
 
 ---
 
 ### 🧾 Certifications
 <p align="center">
-  <a href="https://drive.google.com/drive/folders/1WGqz4fxgdQ_RArI9G0rIA6fery5jLrju?usp=drive_link" target="_blank">
+  <a href="https://drive.google.com/drive/folders/1WGqz4fxgdQ_RArI9G0rIA6fery5jLrju?usp=drive_link" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/View%20My%20Certifications-00C4B3?style=for-the-badge&logo=google-drive&logoColor=white" />
-  </a><br>
-  <i>Includes credentials in Git, Angular, Cloud, and AI technologies.</i>
+  </a>
+</p>
+
+<p align="center">
+  <i>🏅 Includes credentials in Git, Angular, Cloud, and AI technologies.</i>
 </p>
 
 ---
 
 ### 🔁 Automation Flow
-> ⚡ "If it’s repetitive, I automate it."
+> ⚡ *"If it’s repetitive, I automate it."*
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fbfb71cc-b8f3-4cfa-b50e-2a5a55a37d56" width="600" alt="n8n Automation Workflow"/>
+  <a href="https://en.wikipedia.org/wiki/N8n" target="_blank">
+    <img 
+      src="https://github.com/user-attachments/assets/d630596d-455f-42d4-be1a-8a5fe7ba3806" 
+      alt="n8n Automation" 
+      width="600"
+      style="border-radius:12px;box-shadow:0 0 15px rgba(0,196,179,0.5);"
+    />
+  </a>
 </p>
 
-- 🧩 **n8n** for event-driven automation and webhook triggers  
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00C4B3&center=true&vCenter=true&width=435&lines=Automate.+Optimize.+Scale." alt="Typing Animation" />
+</p>
+
+- 🧩 **[n8n](https://en.wikipedia.org/wiki/N8n)** for event-driven automation and webhook triggers  
 - 🤖 **AI Genkit** for ML-assisted decision-making  
 - 🔗 **CI/CD pipelines** for seamless deployments  
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fitzMOSO&show_icons=true&theme=radical&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fitzMOSO&layout=compact&theme=radical&hide_border=true" />
-</p>
 
 ---
 
@@ -73,6 +81,7 @@
 
 ---
 
+<!-- 🌈 Animated Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C4B3,100:0078D7&height=120&section=footer" />
 </p>
